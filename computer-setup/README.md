@@ -13,7 +13,7 @@ Outline the steps to get a new computer set up and ready to start coding.
 - Homebrew [ref](https://brew.sh/)
 - Homebrew Formulae via `brew install $(cat homebrew-formulae.txt)`
 - Homebrew Casks via `brew install --cask $(cat homebrew-casks.txt)`
-- Create relevant folders via `mkdir ~/books ~/companies ~/notifiers ~/projects ~/sandbox ~/scripts`
+- Create relevant folders via `mkdir ~/books ~/companies ~/projects ~/sandbox ~/scripts`
 - Git config
   - `git config --global user.name "Gerry Pass"`
   - `git config --global user.email "rgpass@gmail.com"`
@@ -22,7 +22,7 @@ Outline the steps to get a new computer set up and ready to start coding.
   - `git config --global commit.template ~/.gitmessage`
 - Scripts
   - `z` [ref](https://github.com/rupa/z)
-  - Copy over `notifiers` code
+  - Copy over `notifiers` code via `cp notifiers ~/scripts`
   - `plz` [ref](https://github.com/rgpass/plz)
 - Copy over `~/.zshrc` via copying line-by-line
 - VS Code

@@ -28,5 +28,5 @@ Outline the steps to get a new computer set up and ready to start coding.
 - VS Code
   - Settings Sync
 - Install whatever languages are needed via `asdf` [ref](https://asdf-vm.com/)
-- Download `ASUS_MB_Series_APP_for_macOS_11_and_12.zip` for second monitor support
+- Unzip `ASUS_MB_Series_APP_for_macOS_11_and_12.zip` for second monitor support
 - Sync Messages with iCloud

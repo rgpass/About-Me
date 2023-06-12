@@ -14,3 +14,4 @@ spotify
 sublime-text
 tuple
 visual-studio-code
+warp

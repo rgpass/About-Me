@@ -24,10 +24,10 @@ Outline the steps to get a new computer set up and ready to start coding.
 - Scripts
   - `z` [ref](https://github.com/rupa/z)
   - Copy over `notifiers` code via `cp -r notifiers ~/scripts/`
+  - Run `softwareupdate --install-rosetta` to fix notifier script
   - `plz` [ref](https://github.com/rgpass/plz)
 - Copy over `~/.zshrc` via copying line-by-line
-- VS Code
-  - Settings Sync
+- VS Code settings sync
 - Install whatever languages are needed via `asdf` [ref](https://asdf-vm.com/)
 - Unzip `ASUS_MB_Series_APP_for_macOS_11_and_12.zip` for second monitor support
 - Sync Messages with iCloud

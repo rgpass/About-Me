@@ -8,7 +8,6 @@ google-chrome
 iterm2
 notion
 pop
-private-internet-access
 slack
 spotify
 sublime-text

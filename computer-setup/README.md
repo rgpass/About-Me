@@ -18,7 +18,7 @@ Outline the steps to get a new computer set up and ready to start coding.
 - Git config
   - `git config --global user.name "Gerry Pass"`
   - `git config --global user.email "rgpass@gmail.com"`
-  - `git config --global core.editor=subl -n -w`
+  - `git config --global core.editor "subl -n -w"`
   - Copy over `~/.gitmessage` via `cp .gitmessage ~/.gitmessage`
   - `git config --global commit.template ~/.gitmessage`
 - Scripts

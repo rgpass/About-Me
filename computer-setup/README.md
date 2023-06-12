@@ -7,6 +7,7 @@ Outline the steps to get a new computer set up and ready to start coding.
 ## Overview
 
 - `oh-my-zsh` [ref](https://ohmyz.sh/#install)
+- Clone this repo
 - Homebrew [ref](https://brew.sh/)
 - Homebrew Formulae via `brew install $(cat homebrew-formulae.txt)`
 - Homebrew Casks via `brew install --cask $(cat homebrew-casks.txt)`

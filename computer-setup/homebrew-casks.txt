@@ -1,0 +1,16 @@
+arc
+brave-browser
+discord
+docker
+dropbox
+figma
+google-chrome
+iterm2
+notion
+pop
+private-internet-access
+slack
+spotify
+sublime-text
+tuple
+visual-studio-code

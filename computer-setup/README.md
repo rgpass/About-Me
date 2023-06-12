@@ -7,13 +7,14 @@ Outline the steps to get a new computer set up and ready to start coding.
 ## Overview
 
 - Update OS X
+- Open this repo in Safari
 - `oh-my-zsh` [ref](https://ohmyz.sh/#install)
-- Clone this repo
+- Create relevant folders via `mkdir ~/books ~/companies ~/projects ~/sandbox ~/scripts`
+- `cd ~/scripts` and clone this repo
 - Change to this directory via `cd computer-setup`
 - Homebrew [ref](https://brew.sh/)
 - Homebrew Formulae via `brew install $(cat homebrew-formulae.txt)`
 - Homebrew Casks via `brew install --cask $(cat homebrew-casks.txt)`
-- Create relevant folders via `mkdir ~/books ~/companies ~/projects ~/sandbox ~/scripts`
 - Git config
   - `git config --global user.name "Gerry Pass"`
   - `git config --global user.email "rgpass@gmail.com"`

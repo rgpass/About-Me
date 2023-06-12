@@ -22,7 +22,7 @@ Outline the steps to get a new computer set up and ready to start coding.
   - `git config --global commit.template ~/.gitmessage`
 - Scripts
   - `z` [ref](https://github.com/rupa/z)
-  - Copy over `notifiers` code via `cp notifiers ~/scripts`
+  - Copy over `notifiers` code via `cp -r notifiers ~/scripts/`
   - `plz` [ref](https://github.com/rgpass/plz)
 - Copy over `~/.zshrc` via copying line-by-line
 - VS Code
